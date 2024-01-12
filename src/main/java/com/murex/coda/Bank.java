@@ -1,4 +1,4 @@
-package com.murex.dntp;
+package com.murex.coda;
 
 public class Bank {
 
