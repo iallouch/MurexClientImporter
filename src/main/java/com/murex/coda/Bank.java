@@ -1,5 +1,4 @@
-
-        package com.murex.coda;
+package com.murex.coda;
 
 import java.util.HashMap;
 import java.util.Map;
